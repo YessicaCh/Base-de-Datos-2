@@ -1,0 +1,38 @@
+/*INSERT register ALUMNO(100) /* cuando ingresas 100 datos */ */
+/*create table ALUMNO(id:int:auto,nombre:varchar(30),edad:int:random(2:4),apellido:varchar(10)) */
+/*INSERT table ALUMNO(1,juan,23,perez,chavo,56) /*cuando ingresas solo un valor en la tabla*/ */
+
+
+/*select * from alumnos where alumnos.id <= 2.06 */
+/*INSERT INTO RESERVA (Id_trabajador_check_in,Id_huesped,Id_cama,Fecha_de_ingreso) VALUES (1,5,19,CURRENT_TIMESTAMP)*/
+/*SELECT * FROM T_PEDIDOS */
+/*SELECT AVG(Columna) FROM T_PEDIDOS;*/
+/*SELECT MIN(Columna) FROM T_PEDIDOS;*/
+/*SELECT COUNT(*) FROM T_PEDIDOS;*/
+/*SELECT COUNT(Columna) FROM T_FACTURAS;*/
+/*SELECT SUM(Columna) FROM T_PEDIDOS;*/
+
+/*SELECT columna, columna2 FROM nombre */
+/*SELECT Tabla1.Columna2, Tabla2.Columna2 FROM Tabla1 WHERE Tabla1.Columna1 == Tabla2.Columna1*/
+
+/*INSERT*/
+
+/*INSERT INTO T_PEDIDOS VALUES (125,2,"PEPE");*/
+/*INSERT INTO T_PEDIDOS (CODPEDIDO,ESTADO) VALUES (125,2);*/
+
+/*UPDATE*/
+/*UPDATE T_PEDIDOS SET NOMBRE="JUAN",ESTADO=1 WHERE CODPEDIDO==125;*/
+/*UPDATE T_PEDIDOS SET ESTADO=1;*/
+/*UPDATE T_PEDIDOS SET NOMBRE=NULL WHERE CODPEDIDO==125;*/
+
+/*DELETE            DELETE FROM nombre-tabla [WHERE condición]*/
+/*DELETE FROM nombretabla*/
+/*DELETE FROM T_PEDIDOS WHERE COD_PEDIDO==15; */
+/*select * from alumnos where id==2*/
+/*select campo from alumnos where id==2*/
+/*insert into ALUMNO (id,nombre,edad) value (12,ximena,33);*/
+/*inset into ALUMNO REGISTER (100 REGISTROS);*/
+/*UPDATE T_PEDIDOS SET NOMBRE=NULL WHERE CODPEDIDO==125;*/
+/*DELETE FROM T_PEDIDOS WHERE COD_PEDIDO==15;*/
+/*INSERT INTO T_PEDIDOS (CODPEDIDO,ESTADO) VALUES (125,2);*/
+

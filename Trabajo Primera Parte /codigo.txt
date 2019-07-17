@@ -1,0 +1,41 @@
+delete persona WHERE departamento=62 
+create table persona (idpersona:int:auto,nombre:varchar(100),departamento:int:random(1:100))
+
+
+delete persona WHERE departamento=62
+SELECT * from persona m 
+INSERT register persona(10) 
+create table persona (idpersona:int:auto,nombre:varchar(100),departamento:int:random(1:100))
+
+SELECT * from persona m 
+delete persona WHERE departamento=24
+INSERT register persona(10)  
+create table persona (idpersona:int:auto,nombre:varchar(100),departamento:int:random(1:100))
+
+SELECT * from persona WHERE departamento=24
+delete persona WHERE departamento=24
+INSERT register persona(10)
+/*create table persona (idpersona:int:auto,nombre:varchar(100),departamento:int:random(1:100)) */
+
+
+
+/*delete persona WHERE departamento=24 */
+/*delete persona where departamento=24 */
+/*SELECT * from persona WHERE departamento=24 */
+/*SELECT * FROM persona w */
+/*delete ALUMNO where edad=3*/
+/*SELECT * FROM persona w*/
+/*delete ALUMNO where edad=3 */
+/*INSERT register persona(10000)*/
+/*create table persona (idpersona:int:auto,nombre:varchar(100),departamento:int:random(1:100))*/
+/*delete ALUMNO where edad=3 */
+/*SELECT * FROM ALUMNO where edad=3*/
+/*INSERT register ALUMNO(100)*/
+/*create table ALUMNO(id:int:auto,nombre:varchar(30),edad:int:random(2:4),apellido:varchar(10))*/
+/*SELECT * FROM ALUMNO where edad=30 */ 
+
+/*10 de vy f
+un arbolito 
+una tabla de indices
+dos consultas sql
+una de cultura general*/

@@ -1,0 +1,6 @@
+,;,begin,end,do ,min
+C,A;B,A;B,,,
+A,,begin D end ,,do A,
+B,C do A,c do A,,,
+V,,,end D,,
+D,,,,,min C
